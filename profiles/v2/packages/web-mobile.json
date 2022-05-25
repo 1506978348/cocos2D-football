@@ -1,0 +1,11 @@
+{
+  "options": {
+    "web-mobile": {
+      "embedWebDebugger": false,
+      "orientation": "auto",
+      "polyfills": {
+        "asyncFunctions": true
+      }
+    }
+  }
+}

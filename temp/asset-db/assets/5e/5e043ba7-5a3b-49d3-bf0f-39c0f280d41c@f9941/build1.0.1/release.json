@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "5eBDunWjtJ078POcDygNQc@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "grass (1)",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 2673,
+                "height": 1254
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 2673,
+                "height": 1254
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

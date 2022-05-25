@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char-jump fall-2",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 17,
+      "width": 305,
+      "height": 309
+    },
+    "offset": {
+      "x": -3,
+      "y": 22.5
+    },
+    "originalSize": {
+      "width": 323,
+      "height": 388
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "85131caa-1300-4db2-b88c-47122d90c1cc@6c48a",
+    "packable": true
+  }
+}

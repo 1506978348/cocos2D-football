@@ -1,0 +1,49 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "3996a1",
+      "services": [
+        {
+          "service_id": "235",
+          "service_component_name": "service-analytics",
+          "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+          "enable": false,
+          "params": {
+            "app_id": "649769247",
+            "store_id": "H5"
+          }
+        }
+      ]
+    },
+    "web-mobile": {
+      "configID": "3996a1",
+      "services": [
+        {
+          "service_id": "235",
+          "service_component_name": "service-analytics",
+          "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+          "enable": false,
+          "params": {
+            "app_id": "649769247",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  },
+  "builder-options": {
+    "configID": "3996a1",
+    "services": [
+      {
+        "service_id": "235",
+        "service_component_name": "service-analytics",
+        "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+        "enable": false,
+        "params": {
+          "app_id": "649769247",
+          "store_id": "H5"
+        }
+      }
+    ]
+  }
+}

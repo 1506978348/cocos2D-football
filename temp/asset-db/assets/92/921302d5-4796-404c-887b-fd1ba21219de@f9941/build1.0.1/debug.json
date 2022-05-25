@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "921302d5-4796-404c-887b-fd1ba21219de@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "GOAL!",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 591,
+                "height": 152
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 591,
+                "height": 152
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

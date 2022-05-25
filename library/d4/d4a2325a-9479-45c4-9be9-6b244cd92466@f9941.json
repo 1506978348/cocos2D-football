@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char-fall-3",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 61,
+      "width": 370,
+      "height": 226
+    },
+    "offset": {
+      "x": 0,
+      "y": 7.5
+    },
+    "originalSize": {
+      "width": 370,
+      "height": 363
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d4a2325a-9479-45c4-9be9-6b244cd92466@6c48a",
+    "packable": true
+  }
+}

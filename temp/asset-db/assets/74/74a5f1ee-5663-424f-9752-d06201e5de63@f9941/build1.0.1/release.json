@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "74pfHuVmNCT5dS0GIB5d5j@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "ball 1 (1)",
+            "rect": {
+                "x": 13,
+                "y": 15,
+                "width": 142,
+                "height": 142
+            },
+            "offset": {
+                "x": -1,
+                "y": -1
+            },
+            "originalSize": {
+                "width": 170,
+                "height": 170
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

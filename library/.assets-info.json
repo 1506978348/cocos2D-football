@@ -1,0 +1,562 @@
+{
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites.meta": {
+    "time": 1644826290551.8354
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites": {
+    "time": 1647575438964.1492,
+    "uuid": "f543a38e-f789-4f68-9cc2-62a050fb134d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/Circle.png.meta": {
+    "time": 1644828178269.5737
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/Circle.png": {
+    "time": 1644828178267.7036,
+    "uuid": "40484399-a6c1-4dca-8bb9-d446a54d7305",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/White.png.meta": {
+    "time": 1644828181171.069
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/White.png": {
+    "time": 1644828181169.209,
+    "uuid": "929fc290-91ff-472b-9d5c-5f057ea431e5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts.meta": {
+    "time": 1644829318416.3533
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts": {
+    "time": 1645620796226.589,
+    "uuid": "2e0ba140-b7be-415b-beef-a099fad6d766",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/Ball.ts.meta": {
+    "time": 1644829326837.0493
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/Ball.ts": {
+    "time": 1646628684799.0989,
+    "uuid": "6ef612a1-5a64-4c03-8d38-abcdea2bc658",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scene.meta": {
+    "time": 1644829448816.6538
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scene": {
+    "time": 1645089350876.9973,
+    "uuid": "ed6ee141-69d6-4e35-a637-e798e998b246",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Ball.prefab.meta": {
+    "time": 1644830030653.3582
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Ball.prefab": {
+    "time": 1644922908732.9736,
+    "uuid": "4fa253c9-0b8c-4392-9f91-6fc22092a328",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/Crosshair.ts.meta": {
+    "time": 1644902292106.5168
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/Crosshair.ts": {
+    "time": 1645610626666.0876,
+    "uuid": "d78818d1-aedf-485f-8121-ab24d06e8278",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/GameController.ts.meta": {
+    "time": 1645086023190.462
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/GameController.ts": {
+    "time": 1645612925749.267,
+    "uuid": "64dcf3b9-6d04-4db4-bb60-a7886e62cb9a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scene/main.scene.meta": {
+    "time": 1644829435379.56
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scene/main.scene": {
+    "time": 1647576162802.8005,
+    "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scene/over.scene.meta": {
+    "time": 1644923742441.6675
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scene/over.scene": {
+    "time": 1645088584899.3953,
+    "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Anim.meta": {
+    "time": 1645608836219.702
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Anim": {
+    "time": 1647575361275.631,
+    "uuid": "2bcd3481-8964-49b0-8996-998c745dc1ff",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/Touch.ts.meta": {
+    "time": 1645610771533.3252
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Scripts/Touch.ts": {
+    "time": 1647576535627.3313,
+    "uuid": "3f6f06d0-86f1-4791-bc6f-26c58a7bcf93",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/Frame 1 (4).png.meta": {
+    "time": 1645611132333.0938
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/Frame 1 (4).png": {
+    "time": 1645611132304.467,
+    "uuid": "eb266a3b-7df7-4687-9417-a684ba61ecae",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/Background.png.meta": {
+    "time": 1647573756167.7651
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/Background.png": {
+    "time": 1647573756068.6685,
+    "uuid": "15e679ca-afe4-4251-a206-28ce9ce3c937",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/grass.png.meta": {
+    "time": 1647573758959.6882
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/grass.png": {
+    "time": 1647573758859.564,
+    "uuid": "a1a6aaf4-1d47-4c6e-ad58-21de1bce7b88",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/stadium.png.meta": {
+    "time": 1647573761009.891
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/stadium.png": {
+    "time": 1647573760946.735,
+    "uuid": "0c4140e5-ffef-4b8f-8ead-3c1b862a44d6",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-run-1.png.meta": {
+    "time": 1647574231614.4954
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-run-2.png.meta": {
+    "time": 1647574231646.1326
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-run-3.png.meta": {
+    "time": 1647574231672.1936
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-run-1.png": {
+    "time": 1647574231582.3677,
+    "uuid": "f58bf959-1fcd-4054-9553-90dd3006b3a7",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-run-2.png": {
+    "time": 1647574231582.558,
+    "uuid": "30f384e8-b036-44f4-acd7-7069dfdcaf3d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-run-3.png": {
+    "time": 1647574231582.7903,
+    "uuid": "34b4e059-edcd-4290-b787-a73aea1fd095",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Anim/runing.anim.meta": {
+    "time": 1647574730563.18
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Anim/runing.anim": {
+    "time": 1647575266344.4553,
+    "uuid": "bea35e3f-4a9c-4646-8316-0a9e12f2e077",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Anim/kicking.anim.meta": {
+    "time": 1647575361277.9805
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Anim/kicking.anim": {
+    "time": 1647576060058.1016,
+    "uuid": "3486e3bd-7494-476f-8b7e-245ff787938d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-2.png.meta": {
+    "time": 1647575421384.9958
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-1.png.meta": {
+    "time": 1647575421409.156
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-3.png.meta": {
+    "time": 1647575421438.2246
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-4.png.meta": {
+    "time": 1647575421474.6729
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-2.png": {
+    "time": 1647575421357.2249,
+    "uuid": "61e1a0fa-1f05-406b-8528-a74d8ce32787",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-1.png": {
+    "time": 1647575421357.3843,
+    "uuid": "76c24d07-891b-43b2-862b-496ab1d98d89",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-3.png": {
+    "time": 1647575421359.5845,
+    "uuid": "5fe3de3c-21ed-4214-a1dc-1a9897dd42d5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar/assets/Sprites/char-shoot-4.png": {
+    "time": 1647575421359.755,
+    "uuid": "a02d8567-5764-460d-a2a8-c18f9c7b0b4a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim": {
+    "time": 1648030370014.5688,
+    "uuid": "2bcd3481-8964-49b0-8996-998c745dc1ff",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Ball.prefab": {
+    "time": 1648098297959.4277,
+    "uuid": "4fa253c9-0b8c-4392-9f91-6fc22092a328",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scene": {
+    "time": 1647576967000,
+    "uuid": "ed6ee141-69d6-4e35-a637-e798e998b246",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts": {
+    "time": 1648098113214.5256,
+    "uuid": "2e0ba140-b7be-415b-beef-a099fad6d766",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites": {
+    "time": 1648030253372.7676,
+    "uuid": "f543a38e-f789-4f68-9cc2-62a050fb134d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/kicking.anim": {
+    "time": 1648024609096.2524,
+    "uuid": "3486e3bd-7494-476f-8b7e-245ff787938d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/runing.anim": {
+    "time": 1647942648401.4583,
+    "uuid": "bea35e3f-4a9c-4646-8316-0a9e12f2e077",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scene/main.scene": {
+    "time": 1648105419756.14,
+    "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scene/over.scene": {
+    "time": 1648103871405.986,
+    "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Ball.ts": {
+    "time": 1648089207574.5981,
+    "uuid": "6ef612a1-5a64-4c03-8d38-abcdea2bc658",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Crosshair.ts": {
+    "time": 1648097962499.7263,
+    "uuid": "d78818d1-aedf-485f-8121-ab24d06e8278",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/GameController.ts": {
+    "time": 1648009012629.3958,
+    "uuid": "64dcf3b9-6d04-4db4-bb60-a7886e62cb9a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Touch.ts": {
+    "time": 1648024128305.4146,
+    "uuid": "3f6f06d0-86f1-4791-bc6f-26c58a7bcf93",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/Circle.png": {
+    "time": 1644828178267.7036,
+    "uuid": "40484399-a6c1-4dca-8bb9-d446a54d7305",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/Frame 1 (4).png": {
+    "time": 1645611132304.467,
+    "uuid": "eb266a3b-7df7-4687-9417-a684ba61ecae",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/White.png": {
+    "time": 1644828181169.209,
+    "uuid": "929fc290-91ff-472b-9d5c-5f057ea431e5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-run-1.png": {
+    "time": 1647574231582.3674,
+    "uuid": "f58bf959-1fcd-4054-9553-90dd3006b3a7",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-run-2.png": {
+    "time": 1647574231582.558,
+    "uuid": "30f384e8-b036-44f4-acd7-7069dfdcaf3d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-run-3.png": {
+    "time": 1647574231582.7903,
+    "uuid": "34b4e059-edcd-4290-b787-a73aea1fd095",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-1.png": {
+    "time": 1647575421357.3843,
+    "uuid": "76c24d07-891b-43b2-862b-496ab1d98d89",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-2.png": {
+    "time": 1647575421357.2249,
+    "uuid": "61e1a0fa-1f05-406b-8528-a74d8ce32787",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-3.png": {
+    "time": 1647575421359.5845,
+    "uuid": "5fe3de3c-21ed-4214-a1dc-1a9897dd42d5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-4.png": {
+    "time": 1647575421359.755,
+    "uuid": "a02d8567-5764-460d-a2a8-c18f9c7b0b4a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/grass.png": {
+    "time": 1647573758859.564,
+    "uuid": "a1a6aaf4-1d47-4c6e-ad58-21de1bce7b88",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/stadium.png": {
+    "time": 1647573760946.735,
+    "uuid": "0c4140e5-ffef-4b8f-8ead-3c1b862a44d6",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim.meta": {
+    "time": 1645608836219.702
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scene.meta": {
+    "time": 1644829448816.6538
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts.meta": {
+    "time": 1644829318416.353
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites.meta": {
+    "time": 1644826290551.8354
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/kicking.anim.meta": {
+    "time": 1647575361277.9805
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/runing.anim.meta": {
+    "time": 1647574730563.18
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Ball.ts.meta": {
+    "time": 1647576693015.292
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Crosshair.ts.meta": {
+    "time": 1647576693017.0745
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/GameController.ts.meta": {
+    "time": 1647576693018.8428
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Touch.ts.meta": {
+    "time": 1647576693020.3845
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scene/main.scene.meta": {
+    "time": 1647576693024.0837
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scene/over.scene.meta": {
+    "time": 1647576693027.4263
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Ball.prefab.meta": {
+    "time": 1647576693032.3484
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/Circle.png.meta": {
+    "time": 1647576693057.5364
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/White.png.meta": {
+    "time": 1647576693064.5479
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/Frame 1 (4).png.meta": {
+    "time": 1647576693091.166
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-run-1.png.meta": {
+    "time": 1647576693144.9182
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-run-2.png.meta": {
+    "time": 1647576693192.4834
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-run-3.png.meta": {
+    "time": 1647576693193.6687
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-1.png.meta": {
+    "time": 1647576693245.0024
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-2.png.meta": {
+    "time": 1647576693250.2676
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-3.png.meta": {
+    "time": 1647576693272.5088
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-shoot-4.png.meta": {
+    "time": 1647576693276.692
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/stadium.png.meta": {
+    "time": 1647576693380.242
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/grass.png.meta": {
+    "time": 1647576693383.0232
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/Anim transition.animgraph.meta": {
+    "time": 1647576710333.159
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/Anim transition.animgraph": {
+    "time": 1648003132013.9534,
+    "uuid": "972b63a8-85ec-4c30-a6c8-1f1ec1c36575",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/ball 1 (1).png.meta": {
+    "time": 1647939655804.0918
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/ball 1 (1).png": {
+    "time": 1647939655773.6824,
+    "uuid": "74a5f1ee-5663-424f-9752-d06201e5de63",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/GOAL!.png.meta": {
+    "time": 1647941637562.6174
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/GOAL!.png": {
+    "time": 1647941637540.5337,
+    "uuid": "921302d5-4796-404c-887b-fd1ba21219de",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/perfect.png.meta": {
+    "time": 1647941640763.6233
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/perfect.png": {
+    "time": 1647941640738.9622,
+    "uuid": "90d83d49-e681-41b8-9449-448889413af1",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-fall-1.png.meta": {
+    "time": 1647942598379.921
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-fall-2.png.meta": {
+    "time": 1647942598404.858
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-fall-1.png": {
+    "time": 1647942598346.5442,
+    "uuid": "de80cdc3-89c0-447c-8966-f061fd399f9c",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-fall-2.png": {
+    "time": 1647942598346.6687,
+    "uuid": "c4cc2114-1e7a-4170-b421-dad68f453d49",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/falling.anim.meta": {
+    "time": 1647942638626.613
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Anim/falling.anim": {
+    "time": 1648004820360.763,
+    "uuid": "dc3f2d9a-13b1-46a8-8342-216068911132",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-1.png.meta": {
+    "time": 1647943583927.836
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-2.png.meta": {
+    "time": 1647943583949.9973
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-3.png.meta": {
+    "time": 1647943583975.6836
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-4.png.meta": {
+    "time": 1647943583999.4104
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-1.png": {
+    "time": 1647943583902.376,
+    "uuid": "850a95ee-2d53-4ed4-96c3-d152512318fd",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-2.png": {
+    "time": 1647943583902.4617,
+    "uuid": "85131caa-1300-4db2-b88c-47122d90c1cc",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-3.png": {
+    "time": 1647943583902.498,
+    "uuid": "e9f265d5-25eb-4dcd-8e55-a2102380f904",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump fall-4.png": {
+    "time": 1647943583902.6016,
+    "uuid": "d56f7e93-a6d5-46c6-82b3-2fed60b83e74",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-fall-3.png.meta": {
+    "time": 1648004378601.7153
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-fall-3.png": {
+    "time": 1648004378576.8909,
+    "uuid": "d4a2325a-9479-45c4-9be9-6b244cd92466",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/Background.png.meta": {
+    "time": 1648008376420.5356
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/Background.png": {
+    "time": 1648008376338.2126,
+    "uuid": "c589201f-8d14-4cde-8a6a-9c98c78e3447",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/BackgroundRolling.ts.meta": {
+    "time": 1648021363890.743
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/BackgroundRolling.ts": {
+    "time": 1648090335655.5598,
+    "uuid": "fcf7844c-5239-4857-8867-5f9123282dd9",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/grass (1).png.meta": {
+    "time": 1648022650609.049
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/grass (1).png": {
+    "time": 1648022650499.161,
+    "uuid": "5e043ba7-5a3b-49d3-bf0f-39c0f280d41c",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Player.ts.meta": {
+    "time": 1648028439145.5266
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Scripts/Player.ts": {
+    "time": 1648107803536.506,
+    "uuid": "38b33bb9-348c-4112-99a6-f8e22b60ef12",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump-1.png.meta": {
+    "time": 1648030253406.629
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump-2.png.meta": {
+    "time": 1648030253433.8228
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump-3.png.meta": {
+    "time": 1648030253460.311
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump-1.png": {
+    "time": 1648030253368.8633,
+    "uuid": "78c65420-a66e-4fe2-ac9f-632b9ea6b786",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump-2.png": {
+    "time": 1648030253369.2473,
+    "uuid": "d52a16c2-b172-4720-9e8c-34d6a7462581",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/FootballStar copy/assets/Sprites/char-jump-3.png": {
+    "time": 1648030253369.4214,
+    "uuid": "ebc894d4-b543-431f-9068-5a27e6d9e99b",
+    "missing": false
+  }
+}

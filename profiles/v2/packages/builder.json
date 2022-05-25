@@ -1,0 +1,2430 @@
+{
+  "__version__": "1.3.0",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "name": "football-with-art",
+    "outputName": "lam-footballWithArt",
+    "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "experimentalEraseModules": false,
+    "debug": false,
+    "sourceMaps": false,
+    "replaceSplashScreen": false,
+    "mainBundleIsRemote": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1644829491179": {
+        "id": "1644829491179",
+        "progress": 1,
+        "state": "success",
+        "message": "2-14-2022 16:06 Build success in 83630 ms!",
+        "options": {
+          "name": "lamngo-trial",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "e8f02b",
+              "services": []
+            }
+          }
+        },
+        "time": "2-14-2022 16:04",
+        "dirty": false
+      },
+      "1644976922514": {
+        "id": "1644976922514",
+        "progress": 1,
+        "state": "success",
+        "message": "2-16-2022 09:02 Build success in 16410 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop2",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-16-2022 09:02",
+        "dirty": false,
+        "rawOptions": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop2",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "e8f02b",
+              "services": []
+            }
+          }
+        }
+      },
+      "1645088913196": {
+        "id": "1645088913196",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:08 Build success in 15571 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-footballstar",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1080,
+                "designHeight": 1920
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:08",
+        "dirty": false
+      },
+      "1645089135025": {
+        "id": "1645089135025",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:12 Build success in 12465 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1080,
+                "designHeight": 1920
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:12",
+        "dirty": false
+      },
+      "1645089388884": {
+        "id": "1645089388884",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:16 Build success in 12631 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo_footballstar",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1080,
+                "designHeight": 1920
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:16",
+        "dirty": false
+      },
+      "1645089570881": {
+        "id": "1645089570881",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:19 Build success in 12672 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1080,
+                "designHeight": 1920
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:19",
+        "dirty": false
+      },
+      "1645090205901": {
+        "id": "1645090205901",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:30 Build success in 12668 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 0,
+                "designHeight": 0
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:30",
+        "dirty": false
+      },
+      "1645090355666": {
+        "id": "1645090355666",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:32 Build success in 13144 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-football",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:32",
+        "dirty": false
+      },
+      "1645090661827": {
+        "id": "1645090661827",
+        "progress": 1,
+        "state": "success",
+        "message": "2-17-2022 16:39 Build success in 81692 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-17-2022 16:37",
+        "dirty": false
+      },
+      "1645669631985": {
+        "id": "1645669631985",
+        "progress": 1,
+        "state": "success",
+        "message": "2-24-2022 09:27 Build success in 15869 ms!",
+        "options": {
+          "name": "lamngo-footballStar",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "footballstar",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "2-24-2022 09:27",
+        "dirty": false
+      },
+      "1647940133113": {
+        "id": "1647940133113",
+        "progress": 1,
+        "state": "success",
+        "message": "3-22-2022 16:10 Build success in 86673 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-22-2022 16:08",
+        "dirty": false
+      },
+      "1647940247478": {
+        "id": "1647940247478",
+        "progress": 1,
+        "state": "success",
+        "message": "3-22-2022 16:11 Build success in 16643 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-22-2022 16:10",
+        "dirty": false
+      },
+      "1647940767173": {
+        "id": "1647940767173",
+        "progress": 1,
+        "state": "success",
+        "message": "3-22-2022 16:19 Build success in 20153 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-22-2022 16:19",
+        "dirty": false
+      },
+      "1647940910848": {
+        "id": "1647940910848",
+        "progress": 1,
+        "state": "success",
+        "message": "3-22-2022 16:22 Build success in 13225 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "football--art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-22-2022 16:21",
+        "dirty": false
+      },
+      "1648006166735": {
+        "id": "1648006166735",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 10:29 Build success in 12824 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 10:29",
+        "dirty": false
+      },
+      "1648006733158": {
+        "id": "1648006733158",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 10:39 Build success in 12407 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 10:38",
+        "dirty": false
+      },
+      "1648007012253": {
+        "id": "1648007012253",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 10:43 Build success in 12355 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 10:43",
+        "dirty": false
+      },
+      "1648007038640": {
+        "id": "1648007038640",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 10:44 Build success in 12492 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 10:43",
+        "dirty": false
+      },
+      "1648008649077": {
+        "id": "1648008649077",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 11:11 Build success in 17289 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 11:10",
+        "dirty": false
+      },
+      "1648009066420": {
+        "id": "1648009066420",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 11:18 Build success in 16225 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 11:17",
+        "dirty": false
+      },
+      "1648009319480": {
+        "id": "1648009319480",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 11:22 Build success in 14520 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 11:21",
+        "dirty": false
+      },
+      "1648009496831": {
+        "id": "1648009496831",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 11:25 Build success in 15790 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-football-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 11:24",
+        "dirty": false
+      },
+      "1648009609595": {
+        "id": "1648009609595",
+        "progress": 1,
+        "state": "success",
+        "message": "3-23-2022 11:27 Build success in 15042 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "fooball-with-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-23-2022 11:26",
+        "dirty": false
+      },
+      "1648100057958": {
+        "id": "1648100057958",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 12:35 Build success in 85845 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-footballArt",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 12:34",
+        "dirty": false
+      },
+      "1648100315951": {
+        "id": "1648100315951",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 12:38 Build success in 17004 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-football-with-art",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 12:38",
+        "dirty": false
+      },
+      "1648100629975": {
+        "id": "1648100629975",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 12:44 Build success in 61008 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "sourceMaps": true,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 12:43",
+        "dirty": false
+      },
+      "1648101290478": {
+        "id": "1648101290478",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 12:54 Build success in 6247 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "sourceMaps": true,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 12:54",
+        "dirty": false
+      },
+      "1648101660209": {
+        "id": "1648101660209",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:01 Build success in 7217 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "sourceMaps": true,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:01",
+        "dirty": false
+      },
+      "1648101939998": {
+        "id": "1648101939998",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:05 Build success in 17049 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:05",
+        "dirty": false
+      },
+      "1648102300681": {
+        "id": "1648102300681",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:11 Build success in 15698 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "portrait",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:11",
+        "dirty": false
+      },
+      "1648102640549": {
+        "id": "1648102640549",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:18 Build success in 78423 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:17",
+        "dirty": false
+      },
+      "1648102838672": {
+        "id": "1648102838672",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:20 Build success in 15857 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1080,
+                "designHeight": 1920
+              },
+              "polyfills": {
+                "asyncFunctions": false
+              }
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:20",
+        "dirty": false
+      },
+      "1648102892254": {
+        "id": "1648102892254",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:21 Build success in 15784 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": true
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:21",
+        "dirty": false
+      },
+      "1648103070684": {
+        "id": "1648103070684",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:24 Build success in 16338 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": true
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:24",
+        "dirty": false
+      },
+      "1648103493595": {
+        "id": "1648103493595",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:31 Build success in 15715 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-001",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:31",
+        "dirty": false
+      },
+      "1648103716289": {
+        "id": "1648103716289",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:35 Build success in 15843 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:35",
+        "dirty": false
+      },
+      "1648103903616": {
+        "id": "1648103903616",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:38 Build success in 15583 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": true,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:38",
+        "dirty": false
+      },
+      "1648104350872": {
+        "id": "1648104350872",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 13:46 Build success in 16213 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 13:45",
+        "dirty": false
+      },
+      "1648106075095": {
+        "id": "1648106075095",
+        "progress": 1,
+        "state": "success",
+        "message": "3-24-2022 14:14 Build success in 14987 ms!",
+        "options": {
+          "name": "football-with-art",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/main.scene",
+              "uuid": "d9d0e385-3a22-4533-84a8-ac5c27798510",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/over.scene",
+              "uuid": "05a558c0-8cd8-40fb-84c7-3069f62473ea",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-footballWithArt",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "3996a1",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "649769247",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-24-2022 14:14",
+        "dirty": false
+      }
+    }
+  }
+}

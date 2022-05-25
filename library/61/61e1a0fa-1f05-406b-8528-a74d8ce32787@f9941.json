@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char-shoot-2",
+    "atlas": "",
+    "rect": {
+      "x": 32,
+      "y": 0,
+      "width": 260,
+      "height": 349
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 8
+    },
+    "originalSize": {
+      "width": 323,
+      "height": 365
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "61e1a0fa-1f05-406b-8528-a74d8ce32787@6c48a",
+    "packable": true
+  }
+}

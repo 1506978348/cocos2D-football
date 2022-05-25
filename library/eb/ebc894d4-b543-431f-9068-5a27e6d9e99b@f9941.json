@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char-jump-3",
+    "atlas": "",
+    "rect": {
+      "x": 63,
+      "y": 0,
+      "width": 217,
+      "height": 388
+    },
+    "offset": {
+      "x": 10,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 323,
+      "height": 388
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ebc894d4-b543-431f-9068-5a27e6d9e99b@6c48a",
+    "packable": true
+  }
+}

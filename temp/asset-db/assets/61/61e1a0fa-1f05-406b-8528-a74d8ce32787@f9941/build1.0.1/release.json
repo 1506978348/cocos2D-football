@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "614aD6HwVAa4Uop02M4yeH@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "char-shoot-2",
+            "rect": {
+                "x": 32,
+                "y": 0,
+                "width": 260,
+                "height": 349
+            },
+            "offset": {
+                "x": 0.5,
+                "y": 8
+            },
+            "originalSize": {
+                "width": 323,
+                "height": 365
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

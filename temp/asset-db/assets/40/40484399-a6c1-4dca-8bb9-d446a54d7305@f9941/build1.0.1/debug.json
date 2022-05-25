@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "40484399-a6c1-4dca-8bb9-d446a54d7305@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "Circle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 100
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 100,
+                "height": 100
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

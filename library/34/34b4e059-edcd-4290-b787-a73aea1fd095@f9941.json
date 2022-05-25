@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char-run-3",
+    "atlas": "",
+    "rect": {
+      "x": 49,
+      "y": 4,
+      "width": 276,
+      "height": 341
+    },
+    "offset": {
+      "x": 20,
+      "y": 14.5
+    },
+    "originalSize": {
+      "width": 334,
+      "height": 378
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "34b4e059-edcd-4290-b787-a73aea1fd095@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "3084TosDZE9KzXcGnf3K89@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "char-run-2",
+            "rect": {
+                "x": 47,
+                "y": 3,
+                "width": 256,
+                "height": 358
+            },
+            "offset": {
+                "x": 13.5,
+                "y": 0.5
+            },
+            "originalSize": {
+                "width": 323,
+                "height": 365
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]
